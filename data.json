@@ -1,0 +1,22 @@
+{
+	"users": [
+		{
+			"email": "mahdi@gmail.com",
+			"password": "11223344",
+			"id": 1
+		}
+	],
+	"products": [
+		{
+      "id": 1,
+      "name": "Adidas Samba",
+      "price": 110,
+      "rate": 3.7,
+      "colors": {
+        "blue": "#27aec7",
+        "green": "#268801",
+        "red": "#c72800"
+      } 
+    }
+    ]
+}
